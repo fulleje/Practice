@@ -13,7 +13,9 @@ Syntax highlighted code block
 
 # Davidson Math + Coding Project
 ## Mrs. Fuller
-### For more information, go to [Python Setup](pythondownload.md)
+### For more information, go to 
+
+[Python Setup](pythondownload.md)
 
 - Bulleted
 - List
