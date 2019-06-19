@@ -1,2 +1,2 @@
 #This is your first Python challenge!
-[Challenge Instructions](pythonimport.doc)
+[Challenge Instructions](pythonimport.docx)
